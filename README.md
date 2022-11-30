@@ -16,7 +16,7 @@
   - łączenie danych
 
 
-- <b>Operacje na czasie i dacie:</b> - <a href='pandas-operations.ipynb'>pandas-datetimeipynb</a> 
+- <b>Operacje na czasie i dacie:</b> - <a href='pandas-operations.ipynb'>pandas-datetime.ipynb</a> 
   - konwersja danych object do datetime64[ns]
   - dostęp do właściwości .dt
   - odległość pomiędzy datami
