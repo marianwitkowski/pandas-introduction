@@ -1,7 +1,7 @@
 # Pandas - podstawowe operacje na obiektach DataFrame
 
 
-- <b>Przykład użycia najczęstszych operacji i technik manulacji na obiektach DataFrame w Pandas:</b> - <a href='pandas-operations.ipynb'>pandas-operations.ipynb</a> 
+- <b>Najczęstsze operacje i techniki manulacji na obiektach DataFrame w Pandas:</b> - <a href='pandas-operations.ipynb'>pandas-operations.ipynb</a> 
   - ładowanie danych z CSV
   - dostęp do kolumn
   - indeksowanie/wybieranie danych
@@ -16,7 +16,7 @@
   - łączenie danych
 
 
-- <b>Operowanie na czasie i dacie:</b> - <a href='pandas-operations.ipynb'>pandas-datetimeipynb</a> 
+- <b>Operacje na czasie i dacie:</b> - <a href='pandas-operations.ipynb'>pandas-datetimeipynb</a> 
   - konwersja danych object do datetime64[ns]
   - dostęp do właściwości .dt
   - odległość pomiędzy datami
