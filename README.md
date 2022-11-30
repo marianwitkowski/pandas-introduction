@@ -1,7 +1,7 @@
 # Pandas - podstawowe operacje na obiektach DataFrame
 
 
-- Przykład użycia najczęstszych operacji i technik manulacji na obiektach DataFrame w Pandas:
+- <b>Przykład użycia najczęstszych operacji i technik manulacji na obiektach DataFrame w Pandas:<b/> - <a href='pandas-operations.ipynb'>pandas-operations.ipynb</a> 
   - ładowanie danych z CSV
   - dostęp do kolumn
   - indeksowanie/wybieranie danych
